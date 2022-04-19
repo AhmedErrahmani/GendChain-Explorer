@@ -1,0 +1,28 @@
+.btn-outline-primary{
+    border-color: #000;
+    color: #000;
+}
+.btn-outline-primary:focus{
+    background-color: #000;
+    border-color: #000;
+}
+.btn-outline-primary:hover{
+    background-color: #000;
+    border-color: #000;
+    color: white;
+}
+.btn-primary{
+    background-color: #000;
+    border-color: #000;
+}
+.btn-primary:focus{
+    background-color: #000;
+    border-color: #000;
+    color: white;
+}
+textarea:focus {
+    border-color: #000;
+}
+input:focus {
+    border-color: #000;
+}
